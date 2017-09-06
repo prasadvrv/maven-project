@@ -13,7 +13,7 @@ public class Greeter {
   }
  
   /**
-  * @Param someone the name of the person
+  * @param someone the name of the person
   * @return Greeting string
   */
   public final String greet(final String someone) {
